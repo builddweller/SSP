@@ -2,6 +2,7 @@ name: Update Monday JSON
 
 on:
   workflow_dispatch:
+
   schedule:
     - cron: "0 15 * * *"
 
@@ -14,85 +15,126 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch Monday data and create JSON
+        env:
+          MONDAY_API_KEY: ${{ secrets.MONDAY_API_KEY }}
         run: |
           node <<'EOF'
+
           const fs = require("fs");
 
           const MONDAY_API_KEY = process.env.MONDAY_API_KEY;
           const BOARD_ID = 18416728642;
 
           async function main() {
+
             const query = `
-              query {
-                boards(ids: ${BOARD_ID}) {
-                  items_page(limit: 500) {
-                    items {
-                      name
-                      column_values(ids: [
-                        "status",
-                        "color_mm44nfw0",
-                        "dropdown_mm443zxq",
-                        "dropdown_mm44hrtg",
-                        "dropdown_mm44889f"
-                      ]) {
-                        id
-                        text
-                      }
+            query {
+              boards(ids: ${BOARD_ID}) {
+                items_page(limit: 500) {
+                  items {
+                    name
+
+                    column_values(ids: [
+                      "status",
+                      "color_mm44nfw0",
+                      "dropdown_mm443zxq",
+                      "dropdown_mm44hrtg",
+                      "dropdown_mm44889f"
+                    ]) {
+                      id
+                      text
                     }
                   }
                 }
               }
-            `;
+            }`;
 
-            const res = await fetch("https://api.monday.com/v2", {
-              method: "POST",
-              headers: {
-                Authorization: MONDAY_API_KEY,
-                "Content-Type": "application/json"
-              },
-              body: JSON.stringify({ query })
-            });
+            const res = await fetch(
+              "https://api.monday.com/v2",
+              {
+                method: "POST",
+                headers: {
+                  Authorization: MONDAY_API_KEY,
+                  "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ query })
+              }
+            );
 
             const json = await res.json();
-            const items = json.data.boards[0].items_page.items;
+
+            console.log(
+              JSON.stringify(json, null, 2)
+            );
+
+            const items =
+              json.data.boards[0].items_page.items;
 
             const getValue = (item, id) => {
-              const col = item.column_values.find(c => c.id === id);
-              return col ? col.text.trim() : "";
+              const col =
+                item.column_values.find(
+                  c => c.id === id
+                );
+
+              return col
+                ? col.text.trim()
+                : "";
             };
 
             const splitValues = value => {
               if (!value) return [];
-              return value.split(",").map(v => v.trim()).filter(Boolean);
+
+              return value
+                .split(",")
+                .map(v => v.trim())
+                .filter(Boolean);
             };
 
             const productData = {};
 
             items.forEach(item => {
+
               productData[item.name] = {
                 size: getValue(item, "status"),
                 height: getValue(item, "color_mm44nfw0"),
-                function: splitValues(getValue(item, "dropdown_mm443zxq")),
-                material: splitValues(getValue(item, "dropdown_mm44hrtg")),
-                option: splitValues(getValue(item, "dropdown_mm44889f"))
+
+                function: splitValues(
+                  getValue(item, "dropdown_mm443zxq")
+                ),
+
+                material: splitValues(
+                  getValue(item, "dropdown_mm44hrtg")
+                ),
+
+                option: splitValues(
+                  getValue(item, "dropdown_mm44889f")
+                )
               };
+
             });
 
             fs.writeFileSync(
               "mondayapissp.json",
-              JSON.stringify(productData, null, 2)
+              JSON.stringify(
+                productData,
+                null,
+                2
+              )
             );
+
           }
 
           main();
+
           EOF
 
       - name: Commit updated JSON
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
           git add mondayapissp.json
+
           git commit -m "Update Monday product JSON" || echo "No changes"
+
           git push
-        env:
-          MONDAY_API_KEY: ${{ secrets.MONDAY_API_KEY }}
