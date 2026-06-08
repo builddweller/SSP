@@ -1,0 +1,9 @@
+{
+  "SSP 1757": {
+    "size": "M",
+    "height": "Low",
+    "function": ["Counter"],
+    "material": ["A1"],
+    "option": ["Drawer"]
+  }
+}
