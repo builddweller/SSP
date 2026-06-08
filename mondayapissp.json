@@ -1,9 +1,1066 @@
 {
-  "SSP 1757": {
-    "size": "M",
+  "SSP 1122": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Podium",
+      "Stand"
+    ],
+    "material": [
+      "A7",
+      "S1"
+    ],
+    "option": [
+      "Door",
+      "Window",
+      "Ceiling"
+    ]
+  },
+  "SSP 1839": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Counter"
+    ],
+    "material": [
+      "A2"
+    ],
+    "option": [
+      "Sliding Door"
+    ]
+  },
+  "SSP 1742": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Shelf"
+    ],
+    "material": [
+      "A3"
+    ],
+    "option": [
+      "Swing Door"
+    ]
+  },
+  "SSP 1547": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Table"
+    ],
+    "material": [
+      "A4"
+    ],
+    "option": [
+      "Cap"
+    ]
+  },
+  "SSP 1773": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Island"
+    ],
+    "material": [
+      "A5"
+    ],
+    "option": [
+      "Light Box"
+    ]
+  },
+  "SSP 1729": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Showcase"
+    ],
+    "material": [
+      "A6"
+    ],
+    "option": [
+      "Shelf Lighting"
+    ]
+  },
+  "SSP 1859": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Stand",
+      "Counter"
+    ],
+    "material": [
+      "A7"
+    ],
+    "option": [
+      "Hanger"
+    ]
+  },
+  "SSP 1745": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Stand",
+      "Shelf"
+    ],
+    "material": [
+      "A8"
+    ],
+    "option": [
+      "Pin"
+    ]
+  },
+  "SSP 1335": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Counter",
+      "Shelf"
+    ],
+    "material": [
+      "A9"
+    ],
+    "option": [
+      "Pegboard"
+    ]
+  },
+  "SSP 1344": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Table",
+      "Island"
+    ],
+    "material": [
+      "A10"
+    ],
+    "option": [
+      "Monitor"
+    ]
+  },
+  "SSP 1449": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Counter",
+      "Table"
+    ],
+    "material": [
+      "A11"
+    ],
+    "option": [
+      "Detachable Shelf"
+    ]
+  },
+  "SSP 1735": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Shelf",
+      "Closet"
+    ],
+    "material": [
+      "A12"
+    ],
+    "option": [
+      "Slope"
+    ]
+  },
+  "SSP 1760": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Wall",
+      "Partition"
+    ],
+    "material": [
+      "A13"
+    ],
+    "option": [
+      "Partition"
+    ]
+  },
+  "SSP 1752": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Wall"
+    ],
+    "material": [
+      "A14"
+    ],
+    "option": [
+      "Casing"
+    ]
+  },
+  "SSP 1635": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Partition"
+    ],
+    "material": [
+      "W1"
+    ],
+    "option": [
+      "Caster"
+    ]
+  },
+  "SSP 1789": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Column"
+    ],
+    "material": [
+      "S1"
+    ],
+    "option": [
+      "Door"
+    ]
+  },
+  "SSP 1814": {
+    "size": "S",
+    "height": "Medium",
+    "function": [
+      "Hanger"
+    ],
+    "material": [
+      "A1",
+      "A2"
+    ],
+    "option": [
+      "Window"
+    ]
+  },
+  "SSP 1396": {
+    "size": "S",
     "height": "Low",
-    "function": ["Counter"],
-    "material": ["A1"],
-    "option": ["Drawer"]
+    "function": [
+      "Station"
+    ],
+    "material": [
+      "A3",
+      "A4"
+    ],
+    "option": [
+      "Ceiling"
+    ]
+  },
+  "SSP 1840": {
+    "size": "M",
+    "height": "Medium",
+    "function": [
+      "Trolley"
+    ],
+    "material": [
+      "A5",
+      "A6"
+    ],
+    "option": [
+      "Drawer",
+      "Light Box"
+    ]
+  },
+  "SSP 1529": {
+    "size": "M",
+    "height": "Medium",
+    "function": [
+      "Stand",
+      "Table"
+    ],
+    "material": [
+      "A7",
+      "A8"
+    ],
+    "option": [
+      "Drawer",
+      "Sliding Door"
+    ]
+  },
+  "SSP 1813": {
+    "size": "M",
+    "height": "Medium",
+    "function": [
+      "Stand",
+      "Island"
+    ],
+    "material": [
+      "A9",
+      "A10"
+    ],
+    "option": [
+      "Drawer",
+      "Caster"
+    ]
+  },
+  "SSP 1345": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Counter",
+      "Island"
+    ],
+    "material": [
+      "A11",
+      "A12"
+    ],
+    "option": [
+      "Light Box",
+      "Monitor"
+    ]
+  },
+  "SSP 1264": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Showcase",
+      "Counter"
+    ],
+    "material": [
+      "A13",
+      "A14"
+    ],
+    "option": [
+      "Light Box",
+      "Shelf Lighting"
+    ]
+  },
+  "SSP 1530": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Shelf",
+      "Wall"
+    ],
+    "material": [
+      "A1",
+      "W1"
+    ],
+    "option": [
+      "Sliding Door",
+      "Drawer"
+    ]
+  },
+  "SSP 1588": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Closet",
+      "Shelf"
+    ],
+    "material": [
+      "A2",
+      "W1"
+    ],
+    "option": [
+      "Swing Door",
+      "Drawer"
+    ]
+  },
+  "SSP 1557": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Wall",
+      "Column"
+    ],
+    "material": [
+      "A3",
+      "W1"
+    ],
+    "option": [
+      "Door",
+      "Window"
+    ]
+  },
+  "SSP 1404": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Partition",
+      "Column"
+    ],
+    "material": [
+      "A4",
+      "W1"
+    ],
+    "option": [
+      "Door",
+      "Ceiling"
+    ]
+  },
+  "SSP 1429": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Hanger",
+      "Wall Mounted Display"
+    ],
+    "material": [
+      "A5",
+      "W1"
+    ],
+    "option": [
+      "Window",
+      "Ceiling"
+    ]
+  },
+  "SSP 1492": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Stand",
+      "Counter",
+      "Shelf"
+    ],
+    "material": [
+      "A6",
+      "W1"
+    ],
+    "option": [
+      "Caster",
+      "Drawer"
+    ]
+  },
+  "SSP 1508": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Counter",
+      "Table",
+      "Island"
+    ],
+    "material": [
+      "A7",
+      "W1"
+    ],
+    "option": [
+      "Caster",
+      "Door"
+    ]
+  },
+  "SSP 1587": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Shelf",
+      "Closet",
+      "Wall"
+    ],
+    "material": [
+      "A8",
+      "W1"
+    ],
+    "option": [
+      "Hanger",
+      "Pin"
+    ]
+  },
+  "SSP 1614": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Showcase",
+      "Counter",
+      "Table"
+    ],
+    "material": [
+      "A1",
+      "S1"
+    ],
+    "option": [
+      "Pin",
+      "Pegboard"
+    ]
+  },
+  "SSP 1252": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Stand",
+      "Station"
+    ],
+    "material": [
+      "A2",
+      "S1"
+    ],
+    "option": [
+      "Monitor",
+      "Detachable Shelf"
+    ]
+  },
+  "SSP 1358": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Station",
+      "Counter"
+    ],
+    "material": [
+      "A3",
+      "S1"
+    ],
+    "option": [
+      "Partition",
+      "Casing"
+    ]
+  },
+  "SSP 1450": {
+    "size": "M",
+    "height": "High",
+    "function": [
+      "Trolley",
+      "Stand"
+    ],
+    "material": [
+      "A4",
+      "S1"
+    ],
+    "option": [
+      "Slope",
+      "Casing"
+    ]
+  },
+  "SSP 1757": {
+    "size": "L",
+    "height": "Medium",
+    "function": [
+      "Trolley",
+      "Counter"
+    ],
+    "material": [
+      "A5",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Light Box",
+      "Monitor"
+    ]
+  },
+  "SSP 1731": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Podium"
+    ],
+    "material": [
+      "A6",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Sliding Door",
+      "Caster"
+    ]
+  },
+  "SSP 1428": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Podium",
+      "Counter"
+    ],
+    "material": [
+      "A8",
+      "S1"
+    ],
+    "option": [
+      "Hanger",
+      "Pin",
+      "Pegboard"
+    ]
+  },
+  "SSP 1766": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Seating"
+    ],
+    "material": [
+      "W1",
+      "S1"
+    ],
+    "option": [
+      "Light Box",
+      "Monitor",
+      "Shelf Lighting"
+    ]
+  },
+  "SSP 1326": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Seating",
+      "Table"
+    ],
+    "material": [
+      "A1",
+      "A2",
+      "S1"
+    ],
+    "option": [
+      "Partition",
+      "Casing",
+      "Slope"
+    ]
+  },
+  "SSP 1634": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Seating",
+      "Island"
+    ],
+    "material": [
+      "A3",
+      "A4",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Door"
+    ]
+  },
+  "SSP 1394": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Stand",
+      "Seating"
+    ],
+    "material": [
+      "A5",
+      "A6",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Window"
+    ]
+  },
+  "SSP 1560": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Counter",
+      "Seating"
+    ],
+    "material": [
+      "A7",
+      "A8",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Ceiling"
+    ]
+  },
+  "SSP 1321": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Tray"
+    ],
+    "material": [
+      "A1",
+      "A2",
+      "W1"
+    ],
+    "option": [
+      "Light Box",
+      "Hanger"
+    ]
+  },
+  "SSP 1222": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Tray",
+      "Stand"
+    ],
+    "material": [
+      "A3",
+      "A4",
+      "W1"
+    ],
+    "option": [
+      "Monitor",
+      "Hanger"
+    ]
+  },
+  "SSP 1134": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Tray",
+      "Counter"
+    ],
+    "material": [
+      "A5",
+      "A6",
+      "W1"
+    ],
+    "option": [
+      "Pegboard",
+      "Monitor"
+    ]
+  },
+  "SSP 1267": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Tray",
+      "Shelf"
+    ],
+    "material": [
+      "A7",
+      "A8",
+      "W1"
+    ],
+    "option": [
+      "Caster",
+      "Monitor"
+    ]
+  },
+  "SSP 1491": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Wall Mounted Display"
+    ],
+    "material": [
+      "A1",
+      "A2",
+      "A3"
+    ],
+    "option": [
+      "Sliding Door",
+      "Monitor"
+    ]
+  },
+  "SSP 1198": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Wall Mounted Display",
+      "Hanger"
+    ],
+    "material": [
+      "A4",
+      "A5",
+      "A6"
+    ],
+    "option": [
+      "Drawer",
+      "Partition"
+    ]
+  },
+  "SSP 1446": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Wall Mounted Display",
+      "Shelf"
+    ],
+    "material": [
+      "A7",
+      "A8",
+      "A9"
+    ],
+    "option": [
+      "Drawer",
+      "Casing"
+    ]
+  },
+  "SSP 1287": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Stand",
+      "Showcase"
+    ],
+    "material": [
+      "A10",
+      "A11",
+      "A12"
+    ],
+    "option": [
+      "Light Box",
+      "Door"
+    ]
+  },
+  "SSP 1405": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Counter",
+      "Showcase"
+    ],
+    "material": [
+      "A12",
+      "A13",
+      "A14"
+    ],
+    "option": [
+      "Light Box",
+      "Window"
+    ]
+  },
+  "SSP 1447": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Island",
+      "Showcase"
+    ],
+    "material": [
+      "A1",
+      "A4",
+      "A7"
+    ],
+    "option": [
+      "Light Box",
+      "Ceiling"
+    ]
+  },
+  "SSP 1439": {
+    "size": "L",
+    "height": "High",
+    "function": [
+      "Table",
+      "Showcase"
+    ],
+    "material": [
+      "A2",
+      "A5",
+      "A8"
+    ],
+    "option": [
+      "Door",
+      "Caster"
+    ]
+  },
+  "SSP 1367": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Shelf",
+      "Station"
+    ],
+    "material": [
+      "A3",
+      "A6",
+      "A9"
+    ],
+    "option": [
+      "Window",
+      "Caster"
+    ]
+  },
+  "SSP 1407": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Closet",
+      "Station"
+    ],
+    "material": [
+      "A10",
+      "A13",
+      "S1"
+    ],
+    "option": [
+      "Ceiling",
+      "Caster"
+    ]
+  },
+  "SSP 1437": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Stand",
+      "Counter",
+      "Table"
+    ],
+    "material": [
+      "A11",
+      "A14",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Light Box",
+      "Caster"
+    ]
+  },
+  "SSP 1454": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Stand",
+      "Counter",
+      "Island"
+    ],
+    "material": [
+      "A1",
+      "A2",
+      "A3",
+      "W1"
+    ],
+    "option": [
+      "Drawer",
+      "Monitor",
+      "Caster"
+    ]
+  },
+  "SSP 1411": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Stand",
+      "Shelf",
+      "Closet"
+    ],
+    "material": [
+      "A4",
+      "A5",
+      "A6",
+      "W1"
+    ],
+    "option": [
+      "Sliding Door",
+      "Light Box"
+    ]
+  },
+  "SSP 1282": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Wall",
+      "Partition",
+      "Column"
+    ],
+    "material": [
+      "A7",
+      "A8",
+      "A9",
+      "S1"
+    ],
+    "option": [
+      "Swing Door",
+      "Light Box"
+    ]
+  },
+  "SSP 1190": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Trolley",
+      "Station",
+      "Counter"
+    ],
+    "material": [
+      "A10",
+      "A11",
+      "A12",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Hanger"
+    ]
+  },
+  "SSP 1423": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Podium",
+      "Seating",
+      "Table"
+    ],
+    "material": [
+      "A1",
+      "W1",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Pin"
+    ]
+  },
+  "SSP 1101": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Stand",
+      "Tray",
+      "Shelf"
+    ],
+    "material": [
+      "A5",
+      "W1",
+      "S1"
+    ],
+    "option": [
+      "Drawer",
+      "Pegboard"
+    ]
+  },
+  "SSP 1139": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Counter",
+      "Island",
+      "Showcase"
+    ],
+    "material": [
+      "A9",
+      "W1",
+      "S1"
+    ],
+    "option": [
+      "Monitor",
+      "Partition"
+    ]
+  },
+  "SSP 1118": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Wall Mounted Display",
+      "Hanger",
+      "Wall"
+    ],
+    "material": [
+      "A14",
+      "W1",
+      "S1"
+    ],
+    "option": [
+      "Monitor",
+      "Casing"
+    ]
+  },
+  "SSP1424": {
+    "size": "L",
+    "height": "Low",
+    "function": [
+      "Stand",
+      "Counter",
+      "Shelf",
+      "Table"
+    ],
+    "material": [
+      "A7",
+      "A8",
+      "A9",
+      "S1"
+    ],
+    "option": [
+      "Monitor",
+      "Slope"
+    ]
   }
 }
