@@ -35,11 +35,10 @@ jobs:
                     name
 
                     column_values(ids: [
-                      "status",
-                      "color_mm44nfw0",
                       "dropdown_mm443zxq",
-                      "dropdown_mm44hrtg",
-                      "dropdown_mm44889f"
+                      "color_mm49c1pk",
+                      "status",
+                      "dropdown_mm4933wc"
                     ]) {
                       id
                       text
