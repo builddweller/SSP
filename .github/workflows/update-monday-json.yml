@@ -94,19 +94,15 @@ jobs:
             items.forEach(item => {
 
               productData[item.name] = {
-                size: getValue(item, "status"),
-                height: getValue(item, "color_mm44nfw0"),
+                volume: getValue(item, "status"),
+                site: getValue(item, "color_mm49c1pk"),
 
-                function: splitValues(
+                brand: splitValues(
                   getValue(item, "dropdown_mm443zxq")
                 ),
 
                 material: splitValues(
-                  getValue(item, "dropdown_mm44hrtg")
-                ),
-
-                option: splitValues(
-                  getValue(item, "dropdown_mm44889f")
+                  getValue(item, "dropdown_mm4933wc")
                 )
               };
 
