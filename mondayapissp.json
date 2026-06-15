@@ -20,5 +20,27 @@
       "Stainless Steel",
       "Acrylic"
     ]
+  },
+  "bio2522": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2517": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
   }
 }
