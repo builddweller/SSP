@@ -88,5 +88,62 @@
       "Stainless Steel",
       "Acrylic"
     ]
+  },
+  "bio2449": {
+    "volume": "L",
+    "site": "Department Store",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2445": {
+    "volume": "S",
+    "site": "Office",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2441": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Service"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2430": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2429": {
+    "volume": "L",
+    "site": "Department Store",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
   }
 }
