@@ -358,5 +358,117 @@
       "Stainless Steel",
       "Acrylic"
     ]
+  },
+  "bio2246": {
+    "volume": "XL",
+    "site": "Museum",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2242": {
+    "volume": "L",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2220": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2217": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2214": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2211": {
+    "volume": "XL",
+    "site": "Office",
+    "brand": [
+      "Device"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2210": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2207": {
+    "volume": "XS",
+    "site": "Convention Center",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2196": {
+    "volume": "L",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2195": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
   }
 }
