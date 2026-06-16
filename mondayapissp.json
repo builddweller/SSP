@@ -470,5 +470,117 @@
       "Stainless Steel",
       "Acrylic"
     ]
+  },
+  "bio2182": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2180": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2167": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2162": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2159": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2157": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2114": {
+    "volume": "XL",
+    "site": "Department Store",
+    "brand": [
+      "Fashion",
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2111": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2100": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2090": {
+    "volume": "XS",
+    "site": "Road Shop",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
   }
 }
