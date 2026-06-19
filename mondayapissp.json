@@ -650,5 +650,36 @@
       "Stainless Steel",
       "Acrylic"
     ]
+  },
+  "bio2052": {
+    "volume": "L",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio2044": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2034": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Acrylic"
+    ]
   }
 }
