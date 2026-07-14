@@ -681,5 +681,102 @@
     "material": [
       "Acrylic"
     ]
+  },
+  "bio2542": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2028": {
+    "volume": "XL",
+    "site": "Department Store",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2004": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Device"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio2546": {
+    "volume": "XL",
+    "site": "Etc",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio2002": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1992": {
+    "volume": "XL",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1955": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1913": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio2545": {
+    "volume": "L",
+    "site": "Department Store",
+    "brand": [
+      "Fashion",
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
   }
 }
