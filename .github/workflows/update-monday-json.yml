@@ -38,7 +38,8 @@ jobs:
                       "dropdown_mm443zxq",
                       "color_mm49c1pk",
                       "status",
-                      "dropdown_mm4933wc"
+                      "dropdown_mm4933wc",
+                      "formula_mm5g8a9m"
                     ]) {
                       id
                       text
