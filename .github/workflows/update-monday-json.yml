@@ -39,7 +39,9 @@ jobs:
                       "color_mm49c1pk",
                       "status",
                       "dropdown_mm4933wc",
-                      "formula_mm5g8a9m"
+                      "formula_mm5g8a9m",
+                      "text_mm5gkdss",
+                      "text_mm5gxssf"
                     ]) {
                       id
                       text
@@ -115,7 +117,10 @@ jobs:
                   getValue(item, "dropdown_mm4933wc")
                 ),
 
-                url: getValue(item, "formula_mm5g8a9m")
+                url: getValue(item, "formula_mm5g8a9m"),
+                
+                cdn_pht : getValue(item, "text_mm5gkdss"),
+                cdn_img : getValue(item, "text_mm5gxssf")
               };
 
             });
