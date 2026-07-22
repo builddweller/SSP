@@ -6,7 +6,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -17,7 +16,6 @@
       "Service"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -39,7 +37,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -50,7 +47,6 @@
       "Lifestyle"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -61,7 +57,6 @@
       "Lifestyle"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood",
       "Acrylic"
     ]
@@ -73,7 +68,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood",
       "Acrylic"
     ]
@@ -108,7 +102,6 @@
       "Beauty"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -119,7 +112,6 @@
       "Service"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -153,7 +145,6 @@
       "Fashion"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood",
       "Acrylic"
     ]
@@ -211,7 +202,6 @@
       "Etc"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -233,7 +223,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -267,7 +256,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood"
     ]
   },
@@ -288,7 +276,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -321,7 +308,6 @@
       "Beauty"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -332,7 +318,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -366,7 +351,6 @@
       "Exhibition"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -400,7 +384,6 @@
       "Beauty"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -411,7 +394,6 @@
       "Fashion"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -433,7 +415,6 @@
       "F&B"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -444,7 +425,6 @@
       "Lifestyle"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood",
       "Acrylic"
     ]
@@ -500,7 +480,6 @@
       "Lifestyle"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -511,7 +490,6 @@
       "Lifestyle"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood",
       "Acrylic"
     ]
@@ -523,7 +501,6 @@
       "Fashion"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -557,7 +534,6 @@
       "Exhibition"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -591,7 +567,6 @@
       "Beauty"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -613,7 +588,6 @@
       "Fashion"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -624,7 +598,6 @@
       "Beauty"
     ],
     "material": [
-      "Stainless Steel",
       "Acrylic"
     ]
   },
@@ -635,7 +608,6 @@
       "Etc"
     ],
     "material": [
-      "Stainless Steel",
       "Birch Plywood",
       "Acrylic"
     ]
@@ -776,6 +748,642 @@
     "material": [
       "Stainless Steel",
       "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio2490": {
+    "volume": "L",
+    "site": "Convention Center",
+    "brand": [
+      "Etc"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio2531": {
+    "volume": "XL",
+    "site": "Museum",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1875": {
+    "volume": "XL",
+    "site": "Office",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1859": {
+    "volume": "XL",
+    "site": "Department Store",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1858": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1852": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1840": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1839": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio1823": {
+    "volume": "XL",
+    "site": "Road Shop",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1814": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1813": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1773": {
+    "volume": "XL",
+    "site": "Office",
+    "brand": [
+      "Etc"
+    ],
+    "material": [
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio1760": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1757": {
+    "volume": "XS",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1752": {
+    "volume": "XS",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1748": {
+    "volume": "L",
+    "site": "Convention Center",
+    "brand": [
+      "Device"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1742": {
+    "volume": "XS",
+    "site": "Department Store",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1738": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1745": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "Device"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1735": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Birch Plywood"
+    ]
+  },
+  "bio1731": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1729": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "Service"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1635": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood"
+    ]
+  },
+  "bio1634": {
+    "volume": "XL",
+    "site": "Etc",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1614": {
+    "volume": "XS",
+    "site": "Department Store",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1588": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1587": {
+    "volume": "XL",
+    "site": "Office",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1547": {
+    "volume": "M",
+    "site": "Road Shop",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1530": {
+    "volume": "XS",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1529": {
+    "volume": "XL",
+    "site": "Road Shop",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1508": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1492": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1454": {
+    "volume": "XS",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1450": {
+    "volume": "L",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1449": {
+    "volume": "M",
+    "site": "Etc",
+    "brand": [
+      "Etc"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1447": {
+    "volume": "XS",
+    "site": "Department Store",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1446": {
+    "volume": "XL",
+    "site": "Road Shop",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio1439": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1429": {
+    "volume": "M",
+    "site": "Museum",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1428": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1423": {
+    "volume": "L",
+    "site": "Etc",
+    "brand": [
+      "Exhibition",
+      "Service"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1411": {
+    "volume": "L",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1407": {
+    "volume": "XS",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1405": {
+    "volume": "S",
+    "site": "Road Shop",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1404": {
+    "volume": "XL",
+    "site": "Convention Center",
+    "brand": [
+      "Exhibition"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1396": {
+    "volume": "S",
+    "site": "Convention Center",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1367": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1358": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1345": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1344": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio1335": {
+    "volume": "M",
+    "site": "Convention Center",
+    "brand": [
+      "F&B"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1326": {
+    "volume": "L",
+    "site": "Office",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1321": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1287": {
+    "volume": "L",
+    "site": "Road Shop",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1282": {
+    "volume": "XL",
+    "site": "Department Store",
+    "brand": [
+      "Device"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1267": {
+    "volume": "M",
+    "site": "Department Store",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
+      "Acrylic"
+    ]
+  },
+  "bio1252": {
+    "volume": "M",
+    "site": "Road Shop",
+    "brand": [
+      "Lifestyle"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Birch Plywood",
+      "Acrylic"
+    ]
+  },
+  "bio1222": {
+    "volume": "XL",
+    "site": "Office",
+    "brand": [
+      "Etc"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1190": {
+    "volume": "S",
+    "site": "Department Store",
+    "brand": [
+      "Beauty"
+    ],
+    "material": [
+      "Stainless Steel",
+      "Acrylic"
+    ]
+  },
+  "bio1122": {
+    "volume": "XL",
+    "site": "Museum",
+    "brand": [
+      "Fashion"
+    ],
+    "material": [
       "Acrylic"
     ]
   }
