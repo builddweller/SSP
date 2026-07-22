@@ -104,7 +104,9 @@ jobs:
 
                 material: splitValues(
                   getValue(item, "dropdown_mm4933wc")
-                )
+                ),
+
+                url: getValue(item, "formula_mm5g8a9m")
               };
 
             });
