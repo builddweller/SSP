@@ -43,6 +43,10 @@ jobs:
                     ]) {
                       id
                       text
+                      type
+                      ... on FormulaValue {
+                        display_value
+                      }
                     }
                   }
                 }
@@ -55,7 +59,8 @@ jobs:
                 method: "POST",
                 headers: {
                   Authorization: MONDAY_API_KEY,
-                  "Content-Type": "application/json"
+                  "Content-Type": "application/json",
+                  "API-Version": "2026-07"
                 },
                 body: JSON.stringify({ query })
               }
@@ -67,6 +72,10 @@ jobs:
               JSON.stringify(json, null, 2)
             );
 
+            if (json.errors) {
+              throw new Error(JSON.stringify(json.errors, null, 2));
+            }
+
             const items =
               json.data.boards[0].items_page.items;
 
@@ -77,7 +86,7 @@ jobs:
                 );
 
               return col
-                ? col.text.trim()
+                ? String(col.display_value || col.text || "").trim()
                 : "";
             };
 
