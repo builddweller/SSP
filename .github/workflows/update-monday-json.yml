@@ -40,6 +40,7 @@ jobs:
                       "status",
                       "dropdown_mm4933wc",
                       "formula_mm5g8a9m",
+                      "formula_mm5hhyv8",
                       "text_mm5gkdss",
                       "text_mm5gxssf"
                     ]) {
@@ -118,8 +119,11 @@ jobs:
                 ),
 
                 url: getValue(item, "formula_mm5g8a9m"),
+
+                pdt_nme : getValue(item, "formula_mm5hhyv8),
                 
                 cdn_pht : getValue(item, "text_mm5gkdss"),
+                
                 cdn_img : getValue(item, "text_mm5gxssf")
               };
 
