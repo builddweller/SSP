@@ -120,7 +120,7 @@ jobs:
 
                 url: getValue(item, "formula_mm5g8a9m"),
 
-                pdt_nme : getValue(item, "formula_mm5hhyv8),
+                pdt_nme : getValue(item, "formula_mm5hhyv8"),
                 
                 cdn_pht : getValue(item, "text_mm5gkdss"),
                 
