@@ -3,10 +3,6 @@ name: Update Monday JSON
 on:
   workflow_dispatch:
 
-  schedule:
-    - cron: "20 6,18 * * *"
-      timezone: "Asia/Seoul"
-
 jobs:
   update-json:
     runs-on: ubuntu-24.04
