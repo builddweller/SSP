@@ -3,6 +3,10 @@ name: Update Monday JSON
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "20 6,18 * * *"
+      timezone: "Asia/Seoul"
+
 jobs:
   update-json:
     runs-on: ubuntu-24.04
@@ -39,7 +43,8 @@ jobs:
                       "formula_mm5g8a9m",
                       "formula_mm5hhyv8",
                       "text_mm5gkdss",
-                      "text_mm5gxssf"
+                      "text_mm5gxssf",
+                      "color_mm8tzhxp"
                     ]) {
                       id
                       text
@@ -102,7 +107,10 @@ jobs:
             const productData = {};
 
             items.forEach(item => {
-
+            
+              if (getValue(item, "color_mm8tzhxp") !== "작업 완료") {
+                return;
+              }
               productData[item.name] = {
                 volume: getValue(item, "status"),
                 site: getValue(item, "color_mm49c1pk"),
